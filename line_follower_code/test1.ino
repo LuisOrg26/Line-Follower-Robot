@@ -1,4 +1,4 @@
-#define LED 2
+#define LED 22
 
 void setup() {
   pinMode(LED, OUTPUT);
